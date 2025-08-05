@@ -7,6 +7,7 @@ title: "Software"
 - Python, OpenCV, Pytorch, Torch3D
 - PyCharm, Visual Studio Code, Jupyter Notebook
 - Docker, Git, Bash Shell, Linux
+
 ## Secondary
 - C#, SQL
 - Microsoft SQL Server, Oracle 11g, Postgres SQL 
